@@ -1,4 +1,5 @@
 # ------------------------------------------------------
+# Archivo de usuario M1 del Ejercicio 4 Prática 2 de Informática Básica 2021/2022
 # Convierte un número binario a decimal.
 # El binario es un string e.g. "101"
 # ------------------------------------------------------
