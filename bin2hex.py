@@ -65,3 +65,4 @@ if __name__ == "__main__":
 
     # Muestra por pantalla el resultado.
     print("El numero binario " + numero_binario + " es " + numero_hexadecimal + " en hexadecimal.")
+ # Me obligan a escribir un comentario, help me please.

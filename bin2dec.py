@@ -15,6 +15,8 @@ def bin2dec(numero_binario):
         numero_decimal -= 2**(len(numero_binario)-1)
     return numero_decimal
 
+
+#esto es un cambio irrelevante
 # ----------------------------------------
 # MAIN
 # ----------------------------------------
